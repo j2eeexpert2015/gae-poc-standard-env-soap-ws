@@ -35,11 +35,12 @@
 				</exclusion>
 			</exclusions>
 		</dependency>
-		<!-- Added for local debugging -->
+		<!-- Added for local debugging 
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-jetty</artifactId>
 		</dependency>
+		-->
 		<dependency>
 			<groupId>wsdl4j</groupId>
 			<artifactId>wsdl4j</artifactId>
