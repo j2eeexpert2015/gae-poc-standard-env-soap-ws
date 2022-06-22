@@ -4,4 +4,3 @@ instance_class: B2
 handlers:
 - url: /.*
   script: this field is required, but ignored
-skip_files: app.yaml
